@@ -17,5 +17,8 @@ void LCD_Print(char *str);
 void LCD_PrintNumber(int num);
 
 void delay_ms(unsigned int ms);
+void SPI0_Init(void);
+void I2C0_Init(void);
+void CAN1_Init(void);
 
 #endif
