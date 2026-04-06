@@ -31,5 +31,9 @@ This project implements an Advanced Data Acquisition System using LPC2129 microc
 - Wireless data transmission
 - Cloud monitoring
 
+## Hardware Implementation
+
+![Hardware Diagram](Hardware Implementation.jpeg)
+
 ##  Author
 M. Chakradhar Reddy
