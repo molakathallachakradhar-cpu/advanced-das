@@ -35,5 +35,12 @@ This project implements an Advanced Data Acquisition System using LPC2129 microc
 
 ![Hardware Diagram](Hardware Implementation.jpeg)
 
+## Research Paper
+
+You can read the detailed research paper here:
+
+[Download Paper](Advanced_DAS_Paper.pdf)
+##This paper presents the design and implementation of an Advanced Data Acquisition System using LPC2129 ARM7 microcontroller with real-time temperature monitoring and multi-protocol communication support (UART, SPI, I2C, CAN)
+
 ##  Author
 M. Chakradhar Reddy
